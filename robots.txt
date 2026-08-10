@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-vyvod-na-kartu-bez-dokumentov.github.io
+Sitemap: https://kazino-vyvod-na-kartu-bez-dokumentov.github.io/sitemap.xml
